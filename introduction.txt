@@ -1,0 +1,5 @@
+What is Go? 
+- Go is a "fast, statically compiled language"
+- General purpose language
+- Has buil-in testing support 
+- Is an object-oriented language 
